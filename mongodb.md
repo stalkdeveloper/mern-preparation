@@ -73,8 +73,8 @@
 
 ## Query-Based Interview Questions
 
-### 16. Find all documents with status = "active":
 ```js
+### 16. Find all documents with status = "active":
 db.collection.find({ status: "active" })
 
 ### 17. How do you update the salary of an employee with a specific ID?
